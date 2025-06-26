@@ -1,4 +1,4 @@
-# Multidimensional GAMMs modelling of Standard Mandarin diphthongs 
+# Tonal impact on diphthong realizations in Standard Mandarin Chinese: GAMMs Modelling codes 
 
 This repository contains full analyses for the paper Chenyu, L., & Al-Tamimi, J. (Forthcoming). Tonal impact on diphthong realizations in Standard Mandarin Chinese.
 

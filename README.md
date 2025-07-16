@@ -4,9 +4,13 @@ This repository contains full analyses for the paper Li, C., & Al-Tamimi, J. (Un
 
 The following notebooks showcase the full analyses in the paper. 
 
-Modelling and diagnosis of GAMM models and visualizations: [GAMMs modelling](https://chenyuliudp.github.io/GAMMs_diphthong_mandarin/output_notebook.nb.html)
+Modelling and diagnosis of GAMM models and visualizations: 
 
-Full model comparison: [model comparison](https://chenyuliudp.github.io/GAMMs_diphthong_mandarin/model_comparison.nb.html)
+[GAMMs modelling](https://chenyuliudp.github.io/GAMMs_diphthong_mandarin/output_notebook.nb.html)
+
+Full model comparison: 
+
+[model comparison](https://chenyuliudp.github.io/GAMMs_diphthong_mandarin/model_comparison.nb.html)
 
 If reusing any material, make sure to cite the paper and this repository.
 
